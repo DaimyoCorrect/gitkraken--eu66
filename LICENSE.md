@@ -1,4 +1,4 @@
-# 
+# Enhance GitKraken for PC | GitKraken for Windows with smart GitKraken for PC | GitKraken for Windows Integration | automated-workflows + submodule-management, the #1 integration.
 
 
 
